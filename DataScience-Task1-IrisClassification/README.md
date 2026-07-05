@@ -1,4 +1,6 @@
-echo "# Iris Flower Classification
+# Task 1: Iris Flower Classification
+
+# Iris Flower Classification
 
 ## Task Overview
 This project is part of my Oasis Infobyte internship. The goal is to classify Iris flowers into three species based on their measurements.
